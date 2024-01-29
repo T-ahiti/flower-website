@@ -151,3 +151,32 @@
     text-decoration-line: underline;
     margin-top: 570px;
 }
+
+#group-container {
+    display: flex;
+    margin-top: 195px;
+    margin-left: 240px;
+    margin-right: 240px;
+    margin-bottom: 128px;
+    justify-content: space-around;
+    width: 1440px;
+    height: 320px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+}
+
+.icon-text {
+    color: rgba(39, 39, 39, 0.80);
+    text-align: center;
+    font-family: Lato;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 35px;
+    /* 145.833% */
+}
+.icons{
+    margin-top: 86px;
+    text-align: center;
+}
