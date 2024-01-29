@@ -176,7 +176,56 @@
     line-height: 35px;
     /* 145.833% */
 }
-.icons{
+
+.icons {
     margin-top: 86px;
+    text-align: center;
+}
+
+#hot-container {
+    width: 1922px;
+    height: 620px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+}
+
+.hot-pink-text {
+    color: #E55473;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+#hot-text-part {
+    padding-top: 100px;
+    margin-left: 423px;
+}
+
+.hot-heading {
+    color: #272727;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    margin-bottom: 0px;
+}
+
+.hot-sub {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    margin-top: 24px;
+    margin-bottom: 52px;
+    width: 594px;
+}
+#hot-button{
     text-align: center;
 }
