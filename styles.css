@@ -111,6 +111,11 @@
     flex-shrink: 0;
     border-radius: 300px 300px 0px 0px;
     background: rgba(167, 33, 98, 0.15);
+    background-image: url('flower-asset/pngwin-6.png');
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    background-size: width="310px", height="428px" contain;
+
 }
 
 .blue {
@@ -119,6 +124,9 @@
     flex-shrink: 0;
     border-radius: 300px 300px 0px 0px;
     background: rgba(5, 151, 160, 0.15);
+    background-image: url('flower-asset/pngwing-5.png');
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 .green {
@@ -127,4 +135,19 @@
     flex-shrink: 0;
     border-radius: 300px 300px 0px 0px;
     background: rgba(71, 125, 17, 0.15);
+    background-image: url('flower-asset/pngwing-7.png');
+    background-repeat: no-repeat;
+    background-position: bottom center;
+}
+
+.pink-text {
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 35px;
+    text-decoration-line: underline;
+    margin-top: 570px;
 }
